@@ -1,0 +1,8 @@
+[core]
+	excludesfile = ~/.gitignore
+	editor = vim
+[user]
+	name = Thanh Nguyen
+	email = thanh.nguyen@cavallo.com
+[fetch]
+	prune = true
